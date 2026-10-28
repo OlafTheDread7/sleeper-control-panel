@@ -1,0 +1,10 @@
+# clasp writes these; they point at your own script and Google login
+.clasp.json
+.clasprc.json
+
+node_modules/
+.env
+.env.*
+
+# Reviewer notes drafted before install
+_gate/
